@@ -1,5 +1,6 @@
-# Simon Says Game: 
-Welcome to the Simon Says game! This is a classic memory game where you need to follow a sequence of colors and sounds to win. The game is built using HTML, CSS, and JavaScript.
+## Simon Says Game: 
+# Welcome to the Simon Says game! 
+This is a classic memory game where you need to follow a sequence of colors and sounds to win. The game is built using HTML, CSS, and JavaScript.
 
 # Features:
 Colorful interface with engaging animations.
